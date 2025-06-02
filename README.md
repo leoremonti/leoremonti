@@ -21,7 +21,7 @@ Contato:
 - leoremonti@gmail.com
 - leo89.bio@hotmail.com
 - (54)084052691
-- [Seu LinkedIn (opcional)]
+- (https://www.linkedin.com/in/leonardo-remonti-9691b3141?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 
 Tecnologias:
 
