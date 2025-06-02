@@ -1,7 +1,6 @@
 Nome: Leonardo Remonti
 
-Bio:
-Olá! Sou Leonardo, um profissional de TI com experiência em Administração de Redes e desenvolvimento web. Desde janeiro de 2025, venho trabalhando como Administrador de Redes, criando acessos em sistemas e realizando manutenção de computadores em geral.
+Me chamo Leonardo, sou um profissional de TI com experiência em Administração de Redes e desenvolvimento web. Desde janeiro de 2025, venho trabalhando como Administrador de Redes, criando acessos em sistemas e realizando manutenção de computadores em geral.
 Estou fazendo uma migração de carreira, anteriormente trabalha com setores administrativos, 
 
 Habilidades:
